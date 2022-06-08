@@ -1,0 +1,20 @@
+-2100018229 Shaluna Fasya Elmina
+-2100018234 Dini Rohmah
+-2100018249 Andri Pratama 
+
+input jumlah data ke int jml data
+input data ke array 2d menggunakan loop for 2x batas pertama jml data
+kolom 1 -> jenis buku
+kolom 2 -> kode buku
+kolom 3 -> judul buku
+
+
+
+proses
+sorting menggunakan bubble sort
+sorting pake kode int nanti diambil indexnya terus yang lain ngikut(coba)
+sorting kode buku kalo beda nanti
+batas sorting jumlah datanya
+
+output
+tabel seperti di soal
