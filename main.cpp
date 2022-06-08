@@ -35,12 +35,6 @@ void dimensi::input(){
       }
     }
   }
-  for(int i=0;i<jumlah_data;i++){
-    for(int j=0;j<3;j++){
-      cout<<buku[i][j]<<" ";
-      }
-    cout<<endl;
-    }
 }
 
 void dimensi::bubblesort(){
@@ -76,9 +70,6 @@ void dimensi::proses(){
 }
 
 void dimensi::output(){
-  for(int i=0;i<jumlah_data;i++){
-    cout<<kode[i]<<" ";
-  }
   cout<<"-------------------------------------------------"<<endl;
   cout<<"Jenis Buku\t|"<<"Kode Buku\t|"<<"Judul Buku\t|"<<endl;
   cout<<"-------------------------------------------------"<<endl;
